@@ -14,6 +14,8 @@ within `.password-store`. The default is the top level directory.
 Other than those two parameters, it seems that all of `tree`'s options work,
 provided they come in the middle.
 
+The output conforms to the same output style as the default call of `pass`.
+
 ## Installation
 Clone the repo `git clone https://github.com/malan88/pass-tree`, and copy the
 file `tree.bash` to the directory `.password-store/extensions`. That is
